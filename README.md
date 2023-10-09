@@ -10,3 +10,6 @@ A python script that produces analytics on bikeshare data
 ### Files used
 bikeshare.py
 
+### Author
+oranodowd
+
