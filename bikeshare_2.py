@@ -36,7 +36,7 @@ def get_filters():
             print("That's not a valid entry\n")    
     
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for the month (Choose 'all' or select january, february, etc up to June)
     while True:
         input_month = input("Please select a time period by entering : 'all', 'january','february','march','april','may','june'....or enter 'x'to quit\n")
         if input_month == "all":
