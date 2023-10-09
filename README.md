@@ -11,5 +11,5 @@ A python script that produces analytics on bikeshare data
 bikeshare.py
 
 ### Author
-oranodowd
+Github username : oranodowd
 
